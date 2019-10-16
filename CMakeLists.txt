@@ -3,4 +3,4 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled main.cpp cmake-build-debug/triangulo.cpp cmake-build-debug/triangulo.h)
+add_executable(untitled main.cpp triangulo.cpp triangulo.h)
